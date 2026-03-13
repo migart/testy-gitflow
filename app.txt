@@ -3,3 +3,4 @@ Dodano szkic formularza logowania
 Poprawka krytyczna po wydaniu
 Naprawiono krytyczny blad logowaniaNaprawiono krytyczny blad logowania
 Dodano ekran logowania z VS Code.
+Dodanie poprawki logowania
