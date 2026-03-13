@@ -1,8 +1,5 @@
 Bazowa aplikacja na ga��zi develop
 Dodano szkic formularza logowania
 Poprawka krytyczna po wydaniu
-<<<<<<< HEAD
-Dodano ekran logowania
-=======
 Naprawiono krytyczny blad logowaniaNaprawiono krytyczny blad logowania
->>>>>>> hotfix/1.1.1
+Dodano ekran logowania z VS Code.
