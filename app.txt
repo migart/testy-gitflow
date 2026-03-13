@@ -1,3 +1,4 @@
-Bazowa aplikacja na ga³êzi develop
+Bazowa aplikacja na gaï¿½ï¿½zi develop
 Dodano szkic formularza logowania
 Poprawka krytyczna po wydaniu
+Naprawiono krytyczny blad logowaniaNaprawiono krytyczny blad logowania
