@@ -1,2 +1,3 @@
 Bazowa aplikacja na ga³êzi develop
 Dodano szkic formularza logowania
+Poprawka krytyczna po wydaniu
